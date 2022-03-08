@@ -1,0 +1,49 @@
+body{
+  background: white;
+}
+
+.container{
+  height: 100vh;
+  border-radius: 130px;
+}
+
+.box{
+  width: 800px;
+  height: 60%;
+  color: white;
+
+}
+
+
+.card1{
+  background:hsl(31, 77%, 52%);
+  width: 25%;
+  padding: 3%;
+}
+
+.card2{
+  background:  hsl(184, 100%, 22%);
+  width: 25%;
+  padding: 3%;
+}
+
+.card3{
+  background: hsl(179, 100%, 13%);
+  width: 25%;
+  padding: 3%;
+}
+
+
+.incono{
+ 
+  width: 60px;
+
+}
+
+.btn{
+  color: #000;
+  background:  hsl(0, 0%, 95%);
+  border-radius: 25px;
+  width: 120px;
+}
+
